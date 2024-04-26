@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/animated-musical-note-music-performance-visual-record-composition-flat-cartoon-style-icon-4k-footage-color-isolated-element-animation-on-white-background-with-alpha-channel-transparency-video.jpg") top right no-repeat;
+  background: #040404 url("../img/IMG_1724.JPEG") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
